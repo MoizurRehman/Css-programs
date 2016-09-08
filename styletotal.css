@@ -1,0 +1,50 @@
+	 body
+	 {
+		background-image:url(uu.PNG);
+		background-attachment: fixed;
+	 }
+	 h1
+	 {
+		font-size:30px; font-family:Old English Text MT;font-style:bold;
+		
+		text-align:center;text-decoration:underline;text-transform:capitalize;
+		letter-spacing:5px; word-spacing:10px; text-shadow:5px 5px 5px orange;color:red;
+		border:80px green;
+		border-radius:10px 80px 10px 80px dotted black; 
+	 }
+	 p
+	 {
+		font-size:20px; font-family:Magneto;font-style:bold;
+		
+		text-align:left;text-decoration:line-through;text-transform:uppercase;
+		letter-spacing:2px; word-spacing:8px; text-shadow:5px 5px 5px yellow;color:green;
+		border:80px green;
+		border-radius:10px 80px 10px 80px dotted black;
+		box-shadow: 30px 20px 10px 10px black;
+	 }
+	 a:link{
+	 text-decoration:none;
+	 font-size:25px; background-color:blue; color:aqua; font-family:Blackadder ITC;
+	  margin:10px; padding:10px;
+	 }
+	 a:visited{
+	 	 text-decoration:none;
+	 font-size:25px; background-color:blue; color:aqua; font-family:Blackadder ITC;
+	 margin:10px; padding:10px;
+	 }
+	 a:hover{
+	 text-decoration:underline;
+	 color:orange;
+	 background-color:gray;
+	 }
+	 img{
+	 width:500px; height:500px; border: 10px dashed brown; 
+	 }
+	 img:hover{
+	 border-radius:10px 10px 10px 10px gray;
+	 width:400px; height:250px;
+	 }
+	 
+	 
+	 
+		
