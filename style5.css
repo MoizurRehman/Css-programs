@@ -1,0 +1,12 @@
+	
+	a:link{background:black; font-size:15px; font-style:bold; text-decoration:none;
+		   font-family:Mistral; text-transform:uppercase; color:red; margin:10px; padding:10px;
+		  }
+	a:visited{
+	background:black; font-size:15px; font-style:bold; text-decoration:none;
+		   font-family:Mistral; text-transform:uppercase; color:red;
+		   }
+	a:hover{
+			color:orange; background:yellow; text-decoration:underline;
+	}
+	
